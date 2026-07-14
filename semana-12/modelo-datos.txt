@@ -1,0 +1,13 @@
+modelo de datos de la comunidad
+causa: entidad
+-id :indicador unico de la causa de la cominidad
+-titulo :jovenes atrapasueños  de la comunidad
+-descripcion : fortalezer sus habilidades tus talentos ,problemas o nesecidades
+-fecha:14 de julio a 14 agosto
+
+apoyo : asociacion asoprincess
+-id : apoyo para con trabajadores sociles para ayudar a los jovenes
+-nombre :nombre de la persona que apoya la actividad
+-feccha : 14 de julio a 14 agosto
+
+explicacion : la actividad  " causa" almacena la informacion de cada peticion o iniciativa comunitaria apoya  registra las persona que respalda la causa

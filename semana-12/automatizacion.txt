@@ -1,0 +1,12 @@
+ejemplo de automatizacion
+
+evento :una persona apoya una causa comunitaria.
+
+mensajes : gracias por apoyar esta causa . tu apoyo  ha sido registrado correctamente.
+
+informacion :que no debe enviarse : 
+-numero de cedula
+-telefono
+-direccion 
+-contraseña
+-datos bancarios

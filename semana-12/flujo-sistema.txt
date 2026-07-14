@@ -1,0 +1,5 @@
+1 . ciudadanos entran a la polataforma
+2 .registra una nueva causa con el titulo y la descripcion 
+3  . la causa que da guarsdada en la base de datos
+4 . otro ciudadadno puede apoyar la causa 
+4 . cuando finaliza el proceso , el sistema genera un documento pdf con la peticion
